@@ -49,3 +49,7 @@ All four tables are joined into a single dataframe — one row per pizza line it
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## 📄 License
+
+This project uses a publicly available sample dataset for educational and portfolio purposes.
